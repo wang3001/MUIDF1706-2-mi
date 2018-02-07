@@ -413,10 +413,23 @@ background: url('../img/搜索11.png');
 	float: left;
 	margin-right: 14px;
 	text-align: center;
-	border-top: 4px solid red;
 	padding-top:39px; 
 }
-
+.fd1{
+	border-top: 1px solid #E8C183;
+}
+.fd2{
+	border-top: 1px solid #A4B88C;
+}
+.fd3{
+	border-top: 1px solid #6897B8;
+}
+.fd4{
+	border-top: 1px solid #A26A6F;
+}
+.fd5{
+	border-top: 1px solid #65A99F;
+}
 .danpf div img{
 	width: 160px;
 	height: 160px;
